@@ -7,11 +7,17 @@ A **real-time multi-threaded system** that uses **YOLO object detection**, **spe
 ## 📌 Key Features
 
 ✅ **YOLO-based Detection & Tracking**
+
 ✅ **User Movement Monitoring by Speed**
+
 ✅ **Speed-Based Distance Estimation**
+
 ✅ **Multi-threaded Execution**
+
 ✅ **Tkinter GUI with Logs and Controls**
+
 ✅ **Live Webcam Detection & Video Annotation**
+
 ✅ **Thread Stopping with Button or Keyboard Press**
 
 ---
